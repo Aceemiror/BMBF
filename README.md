@@ -60,6 +60,7 @@ Jika Pake Wifi Tidak Ada Hasil Beralih Ke Data!
 ## ✭ Report Bug
 [![Instagram](https://img.shields.io/badge/Instagram-Report-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ngemry7)
 
+## ✭ Script Krek Terbaru
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=scripter-ryu&repo=clanara&theme=chartreuse-dark)](https://github.com/scripter-ryu/clanara)
 
 
