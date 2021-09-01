@@ -40,7 +40,7 @@ $ pkg install git
 
 $ rm -rf BMBF
 
-$ git clone https://www.github.com/scripter-ryu/BMBF
+$ git clone https://www.github.com/dekura-x/BMBF
 
 $ cd BMBF
 
