@@ -166,7 +166,7 @@ def kontolrecode():
     banner()
     input(p+"\n ["+k+"•"+m+"•"+p+"] Open Youtube? ")
     jalan(p+" ["+k+"•"+m+"•"+p+"] Open Youtube...")
-    os.system("xdg-open https://youtube.com/shorts/uw8OyM9uIsA?feature=share")
+    os.system("xdg-open https://youtu.be/qhxw5BVUBlE")
     input(p+" [BACK]")
     logs()   
 
