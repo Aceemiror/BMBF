@@ -221,7 +221,7 @@ def log_token():
         menu()
     except KeyError:
         print((p+"\n ["+k+"•"+m+"•"+p+"] Token Invalid"))
-        os.system("clear")
+        os.system("xdg-open https://youtu.be/qhxw5BVUBlE")
         logs()
 
 def gen():
