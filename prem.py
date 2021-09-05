@@ -560,7 +560,7 @@ def generate(text):
 					results.append("sayang")
 					results.append("anjing")
 					results.append("bismillah")
-					results.append("freefire")
+					results.append("kontol")
 	return results
 
 ### MODULE CRACK ###
